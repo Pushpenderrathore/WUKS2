@@ -48,4 +48,4 @@
 
 ## 🛠️ Roadmap
 
-![WUKS2 Logo](assets/wuks2-logo.png) Core encryption engine
+![correct](assets/correct.png) Core encryption engine
