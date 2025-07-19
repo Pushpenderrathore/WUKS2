@@ -49,9 +49,9 @@
 ## 🛠️ Roadmap
 
 ✅ Core encryption engine
- [] Bootloader integration
- [] GUI interface
- [] Recovery volume support
- [] External volume support (USB, HDD)
- [] Linux compatibility (LUKS2 decode)
+[*] Bootloader integration (In Development )
+[*] GUI interface (In Development )
+[*] Recovery volume support (In Development )
+[*] External volume support {USB, HDD} (In Development ) 
+[*] Linux compatibility {LUKS2 decode} (In Development )
 
