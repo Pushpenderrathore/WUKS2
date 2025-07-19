@@ -31,9 +31,9 @@
 
 ## 🚀 Getting Started
 
-git clone https://github.com/yourusername/WUKS2.git
-cd WUKS2
-.\scripts\build.ps1
+* git clone https://github.com/yourusername/WUKS2.git
+* cd WUKS2
+* .\scripts\build.ps1
 
 ---
 
@@ -48,4 +48,4 @@ cd WUKS2
 
 ## 🛠️ Roadmap
 
-![WUKS2 Logo](assets/correct.png) Core encryption engine
+![WUKS2 Logo](assets/wuks2-logo.png) Core encryption engine
