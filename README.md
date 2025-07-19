@@ -49,6 +49,7 @@
 ## 🛠️ Roadmap
 
 ✅ Core encryption engine
+
 *[*] Bootloader integration (In Development )
 *[*] GUI interface (In Development )
 *[*] Recovery volume support (In Development )
