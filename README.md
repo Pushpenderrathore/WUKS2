@@ -1,2 +1,5 @@
-# WUKS2
-WUKS2 For windows Inherited from LUKS2 (Linux Unified Key Setup)
+# 🔐 WUKS2 - Windows Unified Key Setup v2
+
+![WUKS2 Logo](assets/wuks2-logo.png)
+
+
