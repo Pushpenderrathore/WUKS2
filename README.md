@@ -48,4 +48,4 @@ cd WUKS2
 
 ## 🛠️ Roadmap
 
-* ![WUKS2 Logo](assets/correct.png) Core encryption engine
+![WUKS2 Logo](assets/correct.png) Core encryption engine
