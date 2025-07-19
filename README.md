@@ -66,5 +66,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 👨‍💻 Author
 Pushpender Singh Rathore
-🔸 Offensive Security & Red Teaming Enthusiast
-🔗 GitHub Profile
+
+.🔸 Offensive Security & Red Teaming Enthusiast
+
+.🔗 GitHub Profile
