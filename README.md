@@ -50,10 +50,9 @@
 
 ✅ Core encryption engine
 
-* Bootloader integration (In Development )
-* GUI interface (In Development )
-* Recovery volume support (In Development )
-* External volume support {USB, HDD} (In Development ) 
-
-*[*] Linux compatibility {LUKS2 decode} (In Development )
+* Bootloader integration (In Development phase )
+* GUI interface (In Development phase)
+* Recovery volume support (In Development phase)
+* External volume support {USB, HDD} (In Development phase) 
+* Linux compatibility {LUKS2 decode} (In Development phase)
 
