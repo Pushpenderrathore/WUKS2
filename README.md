@@ -46,6 +46,8 @@
 * Argon2 or PBKDF2 password hashing
 * Encrypted volume header
 
+---
+
 ## 🛠️ Roadmap
 
 ✅ Core encryption engine
