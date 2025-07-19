@@ -49,7 +49,6 @@
 ## 🛠️ Roadmap
 
 ✅ Core encryption engine
-
 * Bootloader integration (In Development phase )
 * GUI interface (In Development phase)
 * Recovery volume support (In Development phase)
