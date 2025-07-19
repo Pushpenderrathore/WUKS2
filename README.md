@@ -55,3 +55,14 @@
 * External volume support {USB, HDD} (In Development phase) 
 * Linux compatibility {LUKS2 decode} (In Development phase)
 
+---
+
+## 🧾 License
+This project is licensed under the MIT License. See the LICENSE file for details. 
+
+---
+
+## 👨‍💻 Author
+Pushpender Singh Rathore
+🔸 Offensive Security & Red Teaming Enthusiast
+🔗 GitHub Profile
