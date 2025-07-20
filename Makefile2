@@ -1,0 +1,14 @@
+CC = gcc
+CFLAGS = -Wall -Iinclude
+LIBS = -lssl -lcrypto
+
+all: test_enc test_kdf
+
+test_enc: src/core/encryption.c tests/test_encryption.c
+	$(CC) $(CFLAGS) -o test_enc tests/test_encryption.c src/core/encryption.c $(LIBS)
+
+test_kdf: src/core/key_manager.c tests/test_key_derivation.c
+	$(CC) $(CFLAGS) -o test_kdf tests/test_key_derivation.c src/core/key_manager.c $(LIBS)
+
+clean:
+	rm -f test_enc test_kdf
