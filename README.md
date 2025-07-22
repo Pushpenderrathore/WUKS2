@@ -1,5 +1,8 @@
 # 🔐 WUKS2 - Windows Unified Key Setup v2
 
+![License](https://img.shields.io/badge/license-MIT-green) 
+![Last Commit](https://img.shields.io/github/last-commit/Pushpenderrathore/LUKS2-nuke)
+
 ![WUKS2 Logo](assets/wuks2-logo.png)
 
 > A modern, LUKS2-inspired full-disk encryption system for Windows.
